@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project 1 - Electronic Medical Records System
 
 [Electronic Medical Records System](https://github.com/lijx3643/flutter)
 <br>
@@ -16,6 +16,9 @@
 <img src="images/firebase.png?raw=true"/>
 
 ---
+
+### Project 2 - Facial Images Makeup Detection
+
 [Facial Images Makeup Detection](/pdf/sample_presentation.pdf)
 <br>
 • Implemented a Naive Bayes classifier with PCA dimension reduction to classify facial images.
