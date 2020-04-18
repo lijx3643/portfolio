@@ -12,7 +12,8 @@
 <br>
 • Built a diagnosis suggestion engine for patients or symptoms based on MIMIC-III Clinical Database.
 <br>
-<img src="images/emrs.jpg?raw=true"/>
+<img src="images/emrs.jpg?raw=true" width="500" height="600"/>
+<img src="images/firebase.png?raw=true"/>
 
 ---
 [Facial Images Makeup Detection](/pdf/sample_presentation.pdf)
