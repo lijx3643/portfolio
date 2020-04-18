@@ -5,7 +5,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Focus: Data Science & Data Analysis
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <a href="/images/a00.jpg" download> Download my Resume</a>
   
 theme: jekyll-theme-minimal
