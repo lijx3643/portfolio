@@ -5,9 +5,13 @@
 ### Category Name 1 
 
 [Electronic Medical Records System](/sample_page)
+<br>
 • Designed the framework and interface with Figma, enabling users to lookup lab events, diagnosis results.
+<br>
 • Developed the app with Flutter and Firebase, linked the frontend and backend with json_serializable.
+<br>
 • Built a diagnosis suggestion engine for patients or symptoms based on MIMIC-III Clinical Database.
+<br>
 <img src="images/emrs.jpg?raw=true"/>
 
 ---
