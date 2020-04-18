@@ -40,6 +40,15 @@
 
 ---
 
+### Project 3 - Delivery Truck Scheduling Simulation
+
+[Delivery Truck Scheduling Simulation](https://github.com/lijx3643/delivery-truck)
+<br>
+• Explored greedy and Kernighan-Lin algorithm, simulated optimal delivery route under different scenarios.
+<br>
+• Applied cases: single truck, multiple trucks, Amazon Prime(ensure delivery days), dynamic address list.
+<br>
+
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
