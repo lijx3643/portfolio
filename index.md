@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Electronic Medical Records System](/sample_page)
+[Electronic Medical Records System](https://github.com/lijx3643/flutter)
 <br>
 • Designed the framework and interface with Figma, enabling users to lookup lab events, diagnosis results.
 <br>
