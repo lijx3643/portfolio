@@ -5,9 +5,9 @@
 ### Category Name 1 
 
 [Electronic Medical Records System](/sample_page)
-<img src="images/emrs00.jpg?raw=true"/>
-<img src="images/emrs01.jpg?raw=true"/>
-<img src="images/emrs0.jpg?raw=true"/>
+<img src="images/emrs00.png?raw=true"/>
+<img src="images/emrs01.png?raw=true"/>
+<img src="images/emrs0.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
