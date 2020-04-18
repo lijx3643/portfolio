@@ -21,7 +21,7 @@
 <br>
 • Extracted HoG, Canny, Haar features and concatenated them together to describe shape, texture and color.
 <br>
-<img src="images/md.jpg?raw=true"/>
+<img src="images/md.JPG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
