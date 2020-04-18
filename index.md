@@ -19,7 +19,7 @@
 
 ### Project 2 - Facial Images Makeup Detection
 
-[Facial Images Makeup Detection](/pdf/sample_presentation.pdf)
+[Facial Images Makeup Detection](https://github.com/lijx3643/makeup-detection)
 <br>
 • Implemented a Naive Bayes classifier with PCA dimension reduction to classify facial images.
 <br>
@@ -28,8 +28,15 @@
 <img src="images/md.JPG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Project 3 - Yet Another Shell
+
+[Yet Another Shell](https://github.com/lijx3643/yash)
+<br>
+• Built a shell in Linux which takes commands from user input and executes them by creating processes.
+<br>
+• Commands: user programs(ls, cat), file redirection(>, <), pipe(|), signals(Ctrl-c/z), job control(fg, bg, &).
+<br>
 
 ---
 
