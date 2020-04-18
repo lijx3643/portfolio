@@ -5,6 +5,7 @@
 ### Category Name 1 
 
 [Electronic Medical Records System](/sample_page)
+<img src="images/emrs.jpg?raw=true"/>
 <img src="images/emrs00.png?raw=true"/>
 <img src="images/emrs01.png?raw=true"/>
 <img src="images/emrs10.png?raw=true"/>
